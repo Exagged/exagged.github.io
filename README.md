@@ -20,3 +20,7 @@
 - Provided administrative support to the executive team with a focus on preparing data-driven presentations and managing data-centric correspondence.
 
 ### Projects
+**Strategic Market Analysis and Portfolio Optimization for ChemCorp** (https://public.tableau.com/app/profile/michael.velazquez/viz/ChemCorpFinaleMichaelVelazquez/Story1?publish=yes)
+- Utilize data visualizations to assess customer segments, product profitability, and regional market trends, driving ChemCorp's strategic market positioning and decision-making.
+-	Analyze ChemCorp's product portfolio and regional sales data to identify key areas for growth, potential divestment, and targeted marketing efforts.
+-	Leverage insights from the analysis to enhance profitability, market share, and long-term growth, aligning with ChemCorp’s goal of maintaining industry leadership and shareholder value.
