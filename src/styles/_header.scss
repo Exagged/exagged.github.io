@@ -16,9 +16,10 @@
 .header {
   z-index: 1;
   text-align: center;
-  color:#FFF;
+  color: #FFF;
   position: absolute;
   top: 50%;
+  width: 90%;
   left: 50%;
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
@@ -30,7 +31,7 @@
     color: #FFF;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 100px;
+      font-size: 80px;
     }
   }
   .site-description {
@@ -74,11 +75,11 @@
     border: 2px solid #FFF;
     transition: all .7s;
     &:hover {
-      color: $main;
+      color: $sec;
       background: #FFF;
     }
     &:active {
-      color: $main;
+      color: $sec;
       background: #FFF;
     }
     @media only screen and (min-width:$cut) {
@@ -92,12 +93,12 @@
 .down {
   color: #FFF;
   position: absolute;
-  bottom: 25px;
+  bottom: 5%;
   width: 100%;
   margin: 0 auto;
   display: block;
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   cursor: pointer;
   .icon {
       position: absolute;
@@ -109,7 +110,7 @@
       transform: translate(-50%, -50%);
       width: 100px;
       height: 100px;
-      fill: #fff;
+      fill: #FFF;
       -webkit-animation: pulse 1.3s infinite;
       animation: pulse 1.3s infinite;
       &:hover {
