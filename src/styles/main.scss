@@ -2,10 +2,14 @@
 @import "lib/fontawesome";
 @import "lib/devicon";
 
-@import 'base';
 @import 'vars';
+@import 'base';
 @import 'animation';
 @import 'header';
 @import 'about';
 @import 'projects';
 @import 'footer';
+
+@import "lib/fontawesome.scss";
+@import "lib/solid.scss";
+@import "lib/brands.scss";
